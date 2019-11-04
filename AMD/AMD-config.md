@@ -170,8 +170,8 @@ Kernel patches:
 
 To merge:
 * Open both files, 
-* Delete the `Patches` section from Config.plist
-* Copy the `Patches` section from OC_patches.plist
+* Delete the `Patch` section from Config.plist
+* Copy the `Patch` section from OC_patches.plist
 * Paste into where old patches were in config.plist
 
 **Quirks**:
